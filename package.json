@@ -17,9 +17,9 @@
 		"@babel/preset-env": "^7.22.5",
 		"babel": "^6.23.0",
 		"babel-core": "^6.26.3",
-		"babel-loader": "^9.1.2",
-		"browser-sync": "^2.29.3",
-		"core-js": "^3.31.0",
+		"babel-loader": "^8.0.6",
+    	"browser-sync": "^2.26.7",
+    	"core-js": "^3.4.2",
 		"gulp": "^4.0.2",
 		"webpack": "^5.86.0",
 		"webpack-stream": "^7.0.0"
